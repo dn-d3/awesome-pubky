@@ -84,7 +84,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky-workshop](https://github.com/pubky/workshop)![stars](https://img.shields.io/github/stars/pubky/workshop.svg?style=social) - Pubky Workshop repo for a live coding session building a JS app with pubky-sdk
 - [agent-skills](https://github.com/pubky/agent-skills)![stars](https://img.shields.io/github/stars/pubky/agent-skills.svg?style=social) - Pubky agent skills for AI coding tools (Claude Code, Codex, Cursor)
 - [pubky-ring-simulator](https://github.com/pubky/pubky-ring-simulator)![stars](https://img.shields.io/github/stars/pubky/pubky-ring-simulator.svg?style=social) - Browser-based developer tooling for simulating Pubky Ring while developing against a local testnet
-- [talos-cli](https://github.com/pubky/talos-cli)![stars](https://img.shields.io/github/stars/pubky/talos-cli.svg?style=social) - Repository
+- [talos-cli](https://github.com/pubky/talos-cli)![stars](https://img.shields.io/github/stars/pubky/talos-cli.svg?style=social) - CLI agent for the pubky team: query Slack, Drive, GitHub and pubky.app, file issues and delegate jobs from terminal or coding agents
 
 
 ### Documentation
